@@ -5,9 +5,9 @@
     "passes": 24,
     "pending": 0,
     "failures": 0,
-    "start": "2020-12-17T19:13:29.151Z",
-    "end": "2020-12-17T19:13:29.217Z",
-    "duration": 66
+    "start": "2020-12-17T19:13:48.075Z",
+    "end": "2020-12-17T19:13:48.139Z",
+    "duration": 64
   },
   "tests": [
     {
@@ -20,21 +20,21 @@
     {
       "title": "should render 'Actors Page' inside of the <h1 />",
       "fullTitle": "Actors should render 'Actors Page' inside of the <h1 />",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render a <div /> for each actor",
       "fullTitle": "Actors should render a <div /> for each actor",
-      "duration": 5,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render the right content for each actor with a className of 'actor'",
       "fullTitle": "Actors should render the right content for each actor with a className of 'actor'",
-      "duration": 6,
+      "duration": 7,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,7 +48,7 @@
     {
       "title": "contains a <Route path=\"/\">",
       "fullTitle": "App contains a <Route path=\"/\">",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -76,7 +76,7 @@
     {
       "title": "should render one <h1 /> first, inside of the <div />",
       "fullTitle": "Directors should render one <h1 /> first, inside of the <div />",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -90,14 +90,14 @@
     {
       "title": "should render a <div /> for each director",
       "fullTitle": "Directors should render a <div /> for each director",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render the right content for each director",
       "fullTitle": "Directors should render the right content for each director",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -132,14 +132,14 @@
     {
       "title": "should render a <div /> for each movie",
       "fullTitle": "Movies should render a <div /> for each movie",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render the right content for each movie",
       "fullTitle": "Movies should render the right content for each movie",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -192,21 +192,21 @@
     {
       "title": "should render 'Actors Page' inside of the <h1 />",
       "fullTitle": "Actors should render 'Actors Page' inside of the <h1 />",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render a <div /> for each actor",
       "fullTitle": "Actors should render a <div /> for each actor",
-      "duration": 5,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render the right content for each actor with a className of 'actor'",
       "fullTitle": "Actors should render the right content for each actor with a className of 'actor'",
-      "duration": 6,
+      "duration": 7,
       "currentRetry": 0,
       "err": {}
     },
@@ -220,7 +220,7 @@
     {
       "title": "contains a <Route path=\"/\">",
       "fullTitle": "App contains a <Route path=\"/\">",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -248,7 +248,7 @@
     {
       "title": "should render one <h1 /> first, inside of the <div />",
       "fullTitle": "Directors should render one <h1 /> first, inside of the <div />",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -262,14 +262,14 @@
     {
       "title": "should render a <div /> for each director",
       "fullTitle": "Directors should render a <div /> for each director",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render the right content for each director",
       "fullTitle": "Directors should render the right content for each director",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -304,14 +304,14 @@
     {
       "title": "should render a <div /> for each movie",
       "fullTitle": "Movies should render a <div /> for each movie",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should render the right content for each movie",
       "fullTitle": "Movies should render the right content for each movie",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
